@@ -453,6 +453,3 @@ Contributions are welcome! Please:
 **Protecting Indian Citizens from Digital Fraud** 🛡️
 
 ---
-
-**Protecting Indian Citizens from Digital Fraud** 🛡️
-
