@@ -1,0 +1,43 @@
+name: trust_verification_app
+description: Trust Verification Engine - Digital Safety Mobile App
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP & API
+  http: ^1.1.0
+  
+  # Image handling
+  image_picker: ^1.0.0
+  
+  # Material & UI
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_linter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Fonts (optional - for accessibility)
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+
+# App configuration
+app_name: Trust Verification
+bundle_id: com.trustverification.app

@@ -1,0 +1,6 @@
+[
+  "test_end_to_end.py::test_currency_model_separates_real_and_fake",
+  "test_end_to_end.py::test_empty_call_returns_verify",
+  "test_end_to_end.py::test_transaction_high_risk_smoke",
+  "test_end_to_end.py::test_transaction_model_predicts_high_risk"
+]
