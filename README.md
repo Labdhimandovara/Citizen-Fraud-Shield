@@ -1,6 +1,18 @@
-# 🛡️ Citizen Fraud Shield v6.0
+# 🛡️ Citizen Fraud Shield 
 
 **AI-powered fraud detection system protecting Indian citizens from digital fraud**
+
+## 💡 Why Citizen Fraud Shield?
+
+Digital fraud is increasing rapidly in India through:
+
+- Fake UPI requests
+- Digital arrest scams
+- Counterfeit currency
+- OTP fraud
+- Scam calls
+
+Citizen Fraud Shield provides an AI-powered platform that helps citizens verify calls, transactions, and currency before they become victims.
 
 ## 🎯 Features
 
@@ -23,6 +35,7 @@
 - Merchant category risk assessment
 
 ### 🤖 **AI Fraud Prevention Assistant**
+Powered by **Google Gemini API** for:
 - 24/7 chat-based fraud guidance
 - 12-language multilingual support
 - Context-aware responses
@@ -378,6 +391,14 @@ Citizen-Fraud-Shield/
 - Manual verification recommended for high-risk cases
 
 ---
+## 🚀 Future Enhancements
+
+- Mobile application
+- Voice-based fraud detection
+- OCR for bank documents
+- WhatsApp scam detection
+- Live cybercrime reporting
+- Bank API integration
 
 ## ⚠️ Important Disclaimers
 
@@ -422,17 +443,14 @@ Contributions are welcome! Please:
 
 ---
 
-## 👥 Team & Credits
-
-**Project:** Citizen Fraud Shield  
-**Version:** 6.0  
-**Status:** Production Ready  
-**Last Updated:** July 2026
-
 **Technologies:**
 - FastAPI, Streamlit, Scikit-Learn
 - Python 3.12, SQLite
 - Render Cloud Deployment
+
+---
+
+**Protecting Indian Citizens from Digital Fraud** 🛡️
 
 ---
 
