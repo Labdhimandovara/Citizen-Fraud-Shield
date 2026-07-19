@@ -2,6 +2,11 @@
 
 **AI-powered fraud detection system protecting Indian citizens from digital fraud**
 
+## 🎥 Demo
+
+- **Demo Video:** https://drive.google.com/file/d/1SMmUGr6aV1JcZeKRfOI79GyUs5Xz6X86/view?usp=sharing
+---
+
 ## 💡 Why Citizen Fraud Shield?
 
 Digital fraud is increasing rapidly in India through:
